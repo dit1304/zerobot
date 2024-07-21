@@ -77,7 +77,7 @@ mv /root/zerobot/zero /etc/init.d/ && mv /root/zerobot/zero.py /usr/bin/ && chmo
 ##### BOT AUTO INSTALLER 🚀
 
 ```
-cd /tmp && curl -sLko install https://raw.githubusercontent.com/EdyDevz/TgBotWRT/main/installer.sh && bash install
+cd /tmp && curl -sLko install https://raw.githubusercontent.com/dit1304/zerobot/main/installer.sh && bash install
 ```
 *
 *
